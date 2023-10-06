@@ -1,0 +1,1 @@
+<h1>Root directory compose of many training activity folders</h1>
