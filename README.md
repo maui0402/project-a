@@ -4,6 +4,6 @@
 
 <ul>
 
-<li><a href="https://www.w3schools.com/">W3School</a></li>
+<li><a href="https://www.w3schools.com/" target="_blank">W3School</a></li>
 
 </uk>
