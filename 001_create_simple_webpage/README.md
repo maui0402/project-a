@@ -1,7 +1,8 @@
 <h3>Create simple web page</h3>
 
-
+<h4>Prerequisite</h4>
 <h5>Create index.html</h5>
+
 <p>Make sure the html contains the following</p>
 <ul>
 
